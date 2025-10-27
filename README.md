@@ -2,6 +2,8 @@
 
 * [Youtube Tutorial - Claude Code 技巧 (設定/指令/VSCode整合)](https://youtu.be/O9R5VwbxQdc)
 
+* [Youtube Tutorial - Claude Opus 新限制來襲！$200 方案不再吃到飽，開發者必學 /model opusplan 聰明用法！](https://youtu.be/aJ0VtSOvkhM)
+
 這篇文章主要是介紹 claude code 的一些用法以及想法, 如果有好用的我會再更新
 
 [官方文檔](https://docs.anthropic.com/en/docs/claude-code/overview#install-and-authenticate)
@@ -168,6 +170,32 @@ claude --dangerously-skip-permissions
 
 * **月度會話上限：**
     每月最多 50 個會話（每個會話為一個 5 小時的週期）。
+
+## Approaching Opus weekly limit
+
+應該是因為太多人買 200美金瘋狂用, claude code 想要降低成本,
+
+所以多了這一個限制.
+
+因為 Opus 費用大約就是 Sonnet 的 5倍, 所以我完全可以理解他們為什麼要加入這個新的限制.
+
+這樣子的話, 其實就必須多用
+
+`/model opusplan` 規劃的時候用 Opus, 執行的時候用 Sonnet.
+
+畢竟當初沒有這個限制的時候, 我根本不管這個指令, 反正就是 Opus 吃到飽,
+
+也不是我懶的切換, 是因為 Opus 我真心喜歡 (雖然有過度設計的狀況),
+
+但如果你很清楚你的架構, 自己再調整一下就好.
+
+(像最近為了避免達到限制, 我使用 Sonnet 感覺就有降智, 要多調幾次, 不像之前 Opus 可幾乎一次到位)
+
+但現在這個限制出來, 你就沒辦法吃到飽了, 如果依照以前的用法, 很快就會被限制了.
+
+我以前的公司也是買一個帳號, 多人使用 claude code, 但這個限制出來,
+
+我想就沒辦法這樣搞了, 因為現在這種限制, 你如果高頻用一點, 就會達到限制了.
 
 ## 推薦幾個工具以及文章
 

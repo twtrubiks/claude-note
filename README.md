@@ -4,9 +4,11 @@
 
 * [Youtube Tutorial - Claude Opus 新限制來襲！$200 方案不再吃到飽，開發者必學 /model opusplan 聰明用法！](https://youtu.be/aJ0VtSOvkhM)
 
-這篇文章主要是介紹 claude code 的一些用法以及想法, 如果有好用的我會再更新
+* [Youtube Tutorial - 雲端 AI 編碼大戰！Claude Code Web (Sonnet 4.5) VS Jules (Gemini 2.5 Pro)](https://youtu.be/8IZLzCM-Gho)
 
-[官方文檔](https://docs.anthropic.com/en/docs/claude-code/overview#install-and-authenticate)
+這篇文章主要是介紹 claude code 的一些用法以及想法, 如果有好用的我會再更新 [官方文檔](https://docs.anthropic.com/en/docs/claude-code/overview#install-and-authenticate)
+
+* [Claude Skills](Claude-Skills.md) - [Youtube Tutorial - Claude Skills 實戰教學：用 Skill_Seekers 打造你的 Odoo 專家技能！](https://youtu.be/Ml5qTQymalY)
 
 ## 技巧
 

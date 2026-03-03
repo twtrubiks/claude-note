@@ -6,6 +6,22 @@
 
 * [Youtube Tutorial - 雲端 AI 編碼大戰！Claude Code Web (Sonnet 4.5) VS Jules (Gemini 2.5 Pro)](https://youtu.be/8IZLzCM-Gho)
 
+* [Youtube Tutorial - Claude Skills 實戰教學 Skill Seekers 打造你的 Odoo 專家](https://youtu.be/Ml5qTQymalY)
+
+* [Youtube Tutorial - Claude for Chrome 幫你操作瀏覽器：6 個有趣應用](https://youtu.be/5JusqZqnhJI)
+
+* [Youtube Tutorial - AI 自動測試教學DevTools MCP + Claude in Chrome](https://youtu.be/ZwnoCa0qHIg)
+
+* [Youtube Tutorial - 為什麼 AI 總是附和你？Anthropic 談 MCP 開源、模型缺陷與教育未來](https://youtu.be/p8MoOV0EopQ)
+
+* [Youtube Tutorial - Claude Code LSP Plugin 教學  grep vs LSP 程式碼搜尋大對決](https://youtu.be/aEnZB-JvwmM)
+
+* [Youtube Tutorial - 後端工程師的前端救星！UI UX Pro Max Skill 完整實測](https://youtu.be/sEIwJEdLaBg)
+
+* [Youtube Tutorial - 手機也能寫程式！Claude Code Remote Control 完整實測](https://youtu.be/Lewi9HtsVW4)
+
+* [Youtube Tutorial - Claude Code 三大隱藏功能 Agent Teams、Fork、Rules 一次學會](https://youtu.be/LrynAU0gYFo)
+
 這篇文章主要是介紹 claude code 的一些用法以及想法, 如果有好用的我會再更新 [官方文檔](https://docs.anthropic.com/en/docs/claude-code/overview#install-and-authenticate)
 
 * [Claude Skills](Claude-Skills.md) - [Youtube Tutorial - Claude Skills 實戰教學：用 Skill_Seekers 打造你的 Odoo 專家技能！](https://youtu.be/Ml5qTQymalY)
